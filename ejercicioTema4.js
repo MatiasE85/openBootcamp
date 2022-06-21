@@ -41,13 +41,13 @@ switch (estacion) {
     case "verano":
         console.log("Verano");
         break;
-    case otoño:
+    case "otoño":
         console.log("Otoño");
         break;
-    case invierno:
+    case "invierno":
         console.log("Invierno");
         break;
-    case primavera:
+    case "primavera":
         console.log("Primavera");
         break;
     default:

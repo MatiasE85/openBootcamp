@@ -36,3 +36,4 @@ class Persona {
 }
 
 const persona = new Persona("Matias", 23, 3815279435)
+console.log(persona)

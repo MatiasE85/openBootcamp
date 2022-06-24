@@ -5,3 +5,11 @@
 ul li#elemento-1 {
     font-size: 2rem;
 }
+
+.flex img {
+    flex-wrap: wrap;
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
